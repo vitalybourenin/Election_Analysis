@@ -1,5 +1,5 @@
 ### Election Analysis
-The purpose of this analysis was to deliver the congressional election results from three Colorado counties. The analysis allows us to break down the election results by candidate and county, which allows one to gain insights into which counties have high voter turn-outs, and how each candidate fared in an easy to understand deliverable.
+The purpose of this analysis was to deliver the congressional election results from a precinct in Colorado that spans three counties (Jefferson, Denver, Arapahoe). The analysis allows us to break down the election results by candidate and county, providing insights into which counties have high voter turn-outs, and how each candidate fared in an easy to understand deliverable. Furthermore, due to the dynamic nature of this script, it provides a framework for the Colorado Board of Elections to analyze any other elections they so choose. 
 
 ## Election-Audit Results:
 - There were a total of 369,711 votes cast in this election.
