@@ -16,5 +16,7 @@ The purpose of this analysis was to deliver the congressional election results f
   
 -Election winner: Diana DeGette (272,892 votes, 73.8% of total votes)
 
+![election_results_summary](election_results_summary.png)
+
 # Election-Audit Summary:
 Due to the dynamic nature of this script, it could be used to analyze any state or national election. As long as the dataset contains a ballot ID, county, and the name of the candidate voted for, this script would work to analyze any state election, even if there were a different number of counties/candidates participating in the election. To analyze a national election, one would only need to replace the county names with states (and change variable names), and the analysis would run the same. By not directly tying the code to our current dataset, it is possible to use this script to analyze any election given a Ballot ID, County (or state), and the candidate who was voted for. 
